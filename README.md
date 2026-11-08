@@ -18,6 +18,6 @@ Tools & Tech
 
 
 About me 
-I'm just lazy person trying to find some work and earn.
+I'm just person trying find some work and earn.
 Age- 19
 I don't have anything to told you about me much.

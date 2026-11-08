@@ -1,16 +1,23 @@
 ## Hi there 👋
+I'm Nicky, based in INDIA
 
-<!--
-**ownerofga/ownerofga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Web Developer who loves creating modern and interactive web experiences.
 
-Here are some ideas to get you started:
+I'm currently learning HTML, CSS, JavaScript, and React.js to improve my web development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about Web Development, Creative UI Design, and exploring new technologies.
+I'm new to this flid 
+My goal is to continuously learn new technologies, improve my coding skills, and grow as a Web Developer.
+
+Tools & Tech
+
+* Languages: Python, JavaScript, Java, C++
+* Frontend: HTML, CSS, React
+* Backend: Node.js, Django
+* Tools: Git, GitHub, VS Code
+
+
+About me 
+I'm just lazy person trying to find some work and earn.
+Age- 19
+I don't have anything to told you about me much.

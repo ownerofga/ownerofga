@@ -11,7 +11,7 @@ My goal is to continuously learn new technologies, improve my coding skills, and
 
 Tools & Tech
 
-* Languages: Python, JavaScript, Java, C++
+* Languages: JavaScript
 * Frontend: HTML, CSS, React
 * Backend: Node.js, Django
 * Tools: Git, GitHub, VS Code

@@ -13,7 +13,7 @@ Tools & Tech
 
 * Languages: JavaScript
 * Frontend: HTML, CSS, React
-* Backend: Node.js, Django
+* Backend: Node.js
 * Tools: Git, GitHub, VS Code
 
 
